@@ -120,12 +120,6 @@ Abre `powerbi/logs_dashboard.pbix` y actualiza la fuente hacia tu instancia loca
 - `indexes.sql`: índices para acelerar filtros y joins.
 - `queries.sql`: queries analíticas y `EXPLAIN ANALYZE`.
 
-## Resultado esperado
+## Cierre
 
-Un proyecto listo para reclutadores, con:
-
-- estructura clara,
-- consultas analíticas profesionales,
-- dataset a escala real,
-- dashboard ejecutivo,
-- y foco en observabilidad de rendimiento.
+Este proyecto presenta una base sólida para análisis de logs a escala, con generación masiva de datos, modelo relacional en PostgreSQL, consultas analíticas optimizadas y un dashboard ejecutivo para seguimiento de rendimiento y errores.
