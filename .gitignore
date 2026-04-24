@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# VS Code / local tooling
+.vscode/
+.dbclient/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI artifacts (keep the curated dashboard only)
+!powerbi/logs_dashboard.pbix
